@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Monotonic Stack
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
