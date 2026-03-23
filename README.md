@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
