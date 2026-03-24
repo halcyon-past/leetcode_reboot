@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 ## Sorting
