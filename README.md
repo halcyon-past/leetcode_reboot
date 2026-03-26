@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
