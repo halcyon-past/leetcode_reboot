@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
