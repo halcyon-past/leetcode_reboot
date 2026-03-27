@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
