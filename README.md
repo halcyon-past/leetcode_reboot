@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
