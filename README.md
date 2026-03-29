@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
