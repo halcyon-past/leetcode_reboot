@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
