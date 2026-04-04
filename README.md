@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/halcyon-past/leetcode_reboot/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/halcyon-past/leetcode_reboot/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
