@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/halcyon-past/leetcode_reboot/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-walking-robot-simulation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Enumeration
