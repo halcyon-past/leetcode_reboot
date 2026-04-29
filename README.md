@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/halcyon-past/leetcode_reboot/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/halcyon-past/leetcode_reboot/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/halcyon-past/leetcode_reboot/tree/master/3643-flip-square-submatrix-vertically) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
+| [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Enumeration
 |  |
