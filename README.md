@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/halcyon-past/leetcode_reboot/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/halcyon-past/leetcode_reboot/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/halcyon-past/leetcode_reboot/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
