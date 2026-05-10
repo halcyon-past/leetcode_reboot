@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/halcyon-past/leetcode_reboot/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/halcyon-past/leetcode_reboot/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/halcyon-past/leetcode_reboot/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/halcyon-past/leetcode_reboot/tree/master/3660-jump-game-ix) |
