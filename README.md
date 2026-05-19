@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0704-binary-search](https://github.com/halcyon-past/leetcode_reboot/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-walking-robot-simulation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/halcyon-past/leetcode_reboot/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
