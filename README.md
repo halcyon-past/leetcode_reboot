@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3161-block-placement-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/halcyon-past/leetcode_reboot/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/halcyon-past/leetcode_reboot/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3161-block-placement-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3488-closest-equal-element-queries) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3161-block-placement-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/halcyon-past/leetcode_reboot/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
