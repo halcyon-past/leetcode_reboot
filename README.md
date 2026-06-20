@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/halcyon-past/leetcode_reboot/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/halcyon-past/leetcode_reboot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/halcyon-past/leetcode_reboot/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/halcyon-past/leetcode_reboot/tree/master/1861-rotating-the-box) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
+| [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/halcyon-past/leetcode_reboot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
+| [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/halcyon-past/leetcode_reboot/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/halcyon-past/leetcode_reboot/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
