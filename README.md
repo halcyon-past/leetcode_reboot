@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/halcyon-past/leetcode_reboot/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/halcyon-past/leetcode_reboot/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/halcyon-past/leetcode_reboot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/halcyon-past/leetcode_reboot/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/halcyon-past/leetcode_reboot/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/halcyon-past/leetcode_reboot/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/halcyon-past/leetcode_reboot/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/halcyon-past/leetcode_reboot/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
+| [1833-maximum-ice-cream-bars](https://github.com/halcyon-past/leetcode_reboot/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/halcyon-past/leetcode_reboot/tree/master/2126-destroying-asteroids) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/halcyon-past/leetcode_reboot/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/halcyon-past/leetcode_reboot/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
