@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/halcyon-past/leetcode_reboot/tree/master/0146-lru-cache) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/halcyon-past/leetcode_reboot/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/halcyon-past/leetcode_reboot/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/halcyon-past/leetcode_reboot/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/halcyon-past/leetcode_reboot/tree/master/2685-count-the-number-of-complete-components) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/halcyon-past/leetcode_reboot/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
