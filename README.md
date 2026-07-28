@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/halcyon-past/leetcode_reboot/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/halcyon-past/leetcode_reboot/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/halcyon-past/leetcode_reboot/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/0628-maximum-product-of-three-numbers) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/halcyon-past/leetcode_reboot/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/halcyon-past/leetcode_reboot/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/halcyon-past/leetcode_reboot/tree/master/0303-range-sum-query-immutable) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/halcyon-past/leetcode_reboot/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
