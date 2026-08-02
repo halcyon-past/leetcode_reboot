@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/halcyon-past/leetcode_reboot/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
 | [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
