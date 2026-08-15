@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/halcyon-past/leetcode_reboot/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/halcyon-past/leetcode_reboot/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/halcyon-past/leetcode_reboot/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/halcyon-past/leetcode_reboot/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
 | ------- |
