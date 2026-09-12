@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/halcyon-past/leetcode_reboot/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/halcyon-past/leetcode_reboot/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/halcyon-past/leetcode_reboot/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/halcyon-past/leetcode_reboot/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/halcyon-past/leetcode_reboot/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/halcyon-past/leetcode_reboot/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/halcyon-past/leetcode_reboot/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/halcyon-past/leetcode_reboot/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/halcyon-past/leetcode_reboot/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/halcyon-past/leetcode_reboot/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/halcyon-past/leetcode_reboot/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/halcyon-past/leetcode_reboot/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/3536-maximum-product-of-two-digits) |
