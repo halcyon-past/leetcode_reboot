@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/halcyon-past/leetcode_reboot/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1622-fancy-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/1927-sum-game) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/halcyon-past/leetcode_reboot/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/halcyon-past/leetcode_reboot/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
