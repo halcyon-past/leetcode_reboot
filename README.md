@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/halcyon-past/leetcode_reboot/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/halcyon-past/leetcode_reboot/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/halcyon-past/leetcode_reboot/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/halcyon-past/leetcode_reboot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/halcyon-past/leetcode_reboot/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/halcyon-past/leetcode_reboot/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/halcyon-past/leetcode_reboot/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/halcyon-past/leetcode_reboot/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/halcyon-past/leetcode_reboot/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/halcyon-past/leetcode_reboot/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
