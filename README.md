@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
@@ -542,5 +545,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
