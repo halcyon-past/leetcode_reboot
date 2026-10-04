@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/halcyon-past/leetcode_reboot/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/halcyon-past/leetcode_reboot/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/0940-distinct-subsequences-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/halcyon-past/leetcode_reboot/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/halcyon-past/leetcode_reboot/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -546,5 +550,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
