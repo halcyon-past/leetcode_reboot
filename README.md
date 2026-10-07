@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/halcyon-past/leetcode_reboot/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/halcyon-past/leetcode_reboot/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -555,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
