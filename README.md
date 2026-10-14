@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/halcyon-past/leetcode_reboot/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/halcyon-past/leetcode_reboot/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/halcyon-past/leetcode_reboot/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/halcyon-past/leetcode_reboot/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/halcyon-past/leetcode_reboot/tree/master/3783-mirror-distance-of-an-integer) |
