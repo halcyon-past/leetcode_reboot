@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/halcyon-past/leetcode_reboot/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/halcyon-past/leetcode_reboot/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/halcyon-past/leetcode_reboot/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/halcyon-past/leetcode_reboot/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/halcyon-past/leetcode_reboot/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/halcyon-past/leetcode_reboot/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/halcyon-past/leetcode_reboot/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/halcyon-past/leetcode_reboot/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/halcyon-past/leetcode_reboot/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/halcyon-past/leetcode_reboot/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/halcyon-past/leetcode_reboot/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/halcyon-past/leetcode_reboot/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/halcyon-past/leetcode_reboot/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/halcyon-past/leetcode_reboot/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/halcyon-past/leetcode_reboot/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/halcyon-past/leetcode_reboot/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/halcyon-past/leetcode_reboot/tree/master/2685-count-the-number-of-complete-components) |
