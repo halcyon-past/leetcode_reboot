@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/halcyon-past/leetcode_reboot/tree/master/3612-process-string-with-special-operations-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/halcyon-past/leetcode_reboot/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/halcyon-past/leetcode_reboot/tree/master/2685-count-the-number-of-complete-components) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/halcyon-past/leetcode_reboot/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
