@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/halcyon-past/leetcode_reboot/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/halcyon-past/leetcode_reboot/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/halcyon-past/leetcode_reboot/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/halcyon-past/leetcode_reboot/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/halcyon-past/leetcode_reboot/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/halcyon-past/leetcode_reboot/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/halcyon-past/leetcode_reboot/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/halcyon-past/leetcode_reboot/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/halcyon-past/leetcode_reboot/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/halcyon-past/leetcode_reboot/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/halcyon-past/leetcode_reboot/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/halcyon-past/leetcode_reboot/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/halcyon-past/leetcode_reboot/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/halcyon-past/leetcode_reboot/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/halcyon-past/leetcode_reboot/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/halcyon-past/leetcode_reboot/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
