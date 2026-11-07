@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/halcyon-past/leetcode_reboot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/halcyon-past/leetcode_reboot/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/halcyon-past/leetcode_reboot/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/halcyon-past/leetcode_reboot/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/halcyon-past/leetcode_reboot/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/halcyon-past/leetcode_reboot/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/halcyon-past/leetcode_reboot/tree/master/1882-process-tasks-using-servers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/halcyon-past/leetcode_reboot/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/halcyon-past/leetcode_reboot/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
