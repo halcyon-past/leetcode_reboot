@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/halcyon-past/leetcode_reboot/tree/master/0118-pascals-triangle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/halcyon-past/leetcode_reboot/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/halcyon-past/leetcode_reboot/tree/master/0242-valid-anagram) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
