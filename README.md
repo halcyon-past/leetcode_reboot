@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/halcyon-past/leetcode_reboot/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/halcyon-past/leetcode_reboot/tree/master/0053-maximum-subarray) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/halcyon-past/leetcode_reboot/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/halcyon-past/leetcode_reboot/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/halcyon-past/leetcode_reboot/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/halcyon-past/leetcode_reboot/tree/master/0125-valid-palindrome) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/halcyon-past/leetcode_reboot/tree/master/0010-regular-expression-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/halcyon-past/leetcode_reboot/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/halcyon-past/leetcode_reboot/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
